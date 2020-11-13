@@ -1,5 +1,6 @@
 # OpenOS
 ## CONFIDENTIAL! DO NOT REDISTRIBUTE!
 To-Do list:
-- [x] Start getting the OG code ready
-- [ ] Figure out what to do next
+- [x] Upload kernel code
+- [ ] Add File System support
+- [ ] Add app subsystem
