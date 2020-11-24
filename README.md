@@ -2,6 +2,6 @@
 ## An OS from scratch.
 To-Do list:
 - [x] Upload kernel code
-- [x] Make bootable
+- [ ] Make bootable images
 - [ ] Add File System support
 - [ ] Add app subsystem
