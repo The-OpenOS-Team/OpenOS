@@ -1,8 +1,7 @@
 # OpenOS
 # An OS from scratch
 # Important!
-If you check the commit history, One of the members of the OpenOS team decided to nuke the site AGAIN.
-DO NOT LISTEN TO HIM!
+thesudodev keeps on ruining this readme. I'll rollback to my changes in this section once more, but I'll remake the repo if it gets ruined again so nobody has to deal with the annoying chain of the page being ruined and rolled back.
 # Todo list
 - [x] Upload kernel code
 - [ ] Make bootable ISO
