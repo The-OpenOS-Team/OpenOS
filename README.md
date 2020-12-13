@@ -1,6 +1,9 @@
 # OpenOS
-## An OS from scratch
-To-Do list:
+# An OS from scratch
+# Important!
+If you check the commit history, One of the members of the OpenOS team decided to make a site with Google Sites.  
+DO NOT VIEW IT, As it will track you! (I don't support using site tools that inject tracking scripts. YOU SHOULD BE ABLE TO CONTROL YOUR OWN SITE'S CODE!)
+# Todo list
 - [x] Upload kernel code
 - [ ] Make bootable ISO
 - [ ] Add File System support
