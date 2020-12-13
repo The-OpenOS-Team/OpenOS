@@ -1,7 +1,5 @@
 # OpenOS
-## An OS from scratch.
-Website: https://sites.google.com/view/openosalthaha/home
-(dont tell sc39)
+## An OS from scratch
 To-Do list:
 - [x] Upload kernel code
 - [ ] Make bootable ISO
