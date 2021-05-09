@@ -1,2 +1,2 @@
-# THIS REPO IS NO LONGER IN USE!
-Contact linux boi#1100 for the new repo
+# THIS PROJECT IS NO LONGER MAINTAINED
+Please DO NOT use this!
