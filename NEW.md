@@ -10,3 +10,5 @@ Like...
 - A actual arable GUI!
 
 I am planning this in June/July this year, so to the remaining fanbase, keep your fingers crossed.
+
+I might make this OS a ROS fork anyway
