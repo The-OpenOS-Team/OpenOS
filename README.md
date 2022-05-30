@@ -27,3 +27,4 @@ I shouldn't need to do this.
 I shouldn't need to edit this.
 
 - [sc39](https://github.com/sc39IsADev), the developer who (incorrectly) thought that this project was a good idea
+There COULD be a future release from the OTHER developer. If you see 0.03 in Releases, you know what happened.
