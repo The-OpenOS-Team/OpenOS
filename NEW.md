@@ -7,5 +7,6 @@ Like...
 - ReactOS Code intergration
 - EFI Support
 - NT 6.0 APIs (Windows XP kEX, with ROS)
+- A actual arable GUI!
 
 I am planning this in June/July this year, so to the remaining fanbase, keep your fingers crossed.
